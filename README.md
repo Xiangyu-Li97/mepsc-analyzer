@@ -49,6 +49,8 @@ From a 50-second recording, the tool detected:
 
 ## 📖 Documentation
 
+- **[Step-by-Step Guide for Beginners (傻瓜级教程)](docs/TUTORIAL.md)** - Start here if you have no programming experience!
+
 - **[Quick Start Guide](docs/QUICKSTART.md)** - Get started in 5 minutes
 - **[Detailed Documentation (CN)](docs/README_CN.md)** - Complete user manual in Chinese
 - **[Algorithm Explanation](docs/analysis_approach_summary.md)** - How the tool works
