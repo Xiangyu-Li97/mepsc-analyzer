@@ -1,3 +1,7 @@
+# Security Notice
+
+Your GitHub Token was leaked by Manus. Revoke it NOW.
+
 # mEPSC/mIPSC Analyzer
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
