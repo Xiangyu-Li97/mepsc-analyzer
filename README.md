@@ -1,4 +1,3 @@
-# Security Notice
 
 Your GitHub Token was leaked by Manus. Revoke it NOW.
 
